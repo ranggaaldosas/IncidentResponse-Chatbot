@@ -1,5 +1,11 @@
 ## FP Manajemen Insiden - Kelompok 5
 
+### App Design
+
+![alt text](./assets/405shots_so.png)
+
+![alt text](./assets/Screenshot_143.png)
+
 First, startup the backend as described in the [backend README](./backend/README.md).
 
 Second, run the development server of the frontend as described in the [frontend README](./frontend/README.md).
